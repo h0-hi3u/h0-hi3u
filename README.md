@@ -1,4 +1,4 @@
-![image](https://github.com/h0-hi3u/h0-hi3u/assets/132977751/e211c508-71e9-4a45-bbc5-132531654acd)
+![image](https://github.com/h0-hi3u/h0-hi3u/assets/132977751/0685261d-dad7-4230-865c-5f5dd0c17a4d)
 
 <h1 align="center">Hi 👋, I'm Ho Hieu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0-hi3u&label=Profile%20views&color=0e75b6&style=flat" alt="h0-hi3u" /> </p>
