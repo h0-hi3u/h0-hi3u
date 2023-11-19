@@ -1,7 +1,8 @@
+![image](https://github.com/h0-hi3u/h0-hi3u/assets/132977751/e211c508-71e9-4a45-bbc5-132531654acd)
+
 <h1 align="center">Hi 👋, I'm Ho Hieu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0-hi3u&label=Profile%20views&color=0e75b6&style=flat" alt="h0-hi3u" /> </p>
 <img align="right"  width="500" src="https://github.com/h0-hi3u/h0-hi3u/assets/132977751/bb61754d-3943-4573-86bd-ea9f5a2f6ab7">
-
 - 🌱 I’m currently learning **C#.NET & Angular**
 
 - 📫 How to reach me **hieuht2508@gmail.com**
