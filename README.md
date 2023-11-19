@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ho Hieu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0-hi3u&label=Profile%20views&color=0e75b6&style=flat" alt="h0-hi3u" /> </p>
+<img align="right"  width="400" src="https://github.com/h0-hi3u/h0-hi3u/assets/132977751/bb61754d-3943-4573-86bd-ea9f5a2f6ab7">
 
 - 🌱 I’m currently learning **C#.NET & Angular**
 
 - 📫 How to reach me **hieuht2508@gmail.com**
-<img align="right"  width="400" src="https://github.com/h0-hi3u/h0-hi3u/assets/132977751/bb61754d-3943-4573-86bd-ea9f5a2f6ab7">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hiếu-hồ-182625294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiếu-hồ-182625294" height="30" width="40" /></a>
