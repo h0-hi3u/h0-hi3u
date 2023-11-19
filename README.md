@@ -1,4 +1,4 @@
- // ![image](https://github.com/h0-hi3u/h0-hi3u/assets/132977751/193b2de9-052d-4032-8f84-9094c01ad9bc)
+
 
 <h1 align="center">Hi 👋, I'm Ho Hieu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0-hi3u&label=Profile%20views&color=0e75b6&style=flat" alt="h0-hi3u" /> </p>
