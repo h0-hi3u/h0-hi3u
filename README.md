@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning **C#.NET & Angular**
 
 - 📫 How to reach me **hieuht2508@gmail.com**
-
+<img src"![image](https://github.com/h0-hi3u/h0-hi3u/assets/132977751/c536582e-2090-477a-ba30-12007e445401)
+">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hiếu-hồ-182625294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiếu-hồ-182625294" height="30" width="40" /></a>
